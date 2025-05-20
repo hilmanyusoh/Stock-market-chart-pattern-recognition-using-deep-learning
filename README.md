@@ -22,7 +22,7 @@ By leveraging Convolutional Neural Networks, the model can learn visual features
 - Cassandra (NoSQL Database)
 - Docker & Docker Compose
 - Pandas, Numpy, Plotly, Matplotlib
-- Jupyter Notebooks
+- VScode, jupyter notebook
 
 ---
 
