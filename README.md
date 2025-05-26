@@ -1,4 +1,4 @@
-# 📈 Stock Market Chart Pattern Recognition using Deep Learning
+# Stock Market Chart Pattern Recognition using Deep Learning
 
 This project aims to detect classical stock chart patterns — specifically the **Head and Shoulders** pattern — using **Deep Learning (CNN)** on candlestick chart data.
 
@@ -6,7 +6,7 @@ By leveraging Convolutional Neural Networks, the model can learn visual features
 
 ---
 
-## 🚀 Project Objectives
+## Project Objectives
 
 - Automatically recognize **Head and Shoulders** patterns from historical candlestick data
 - Build a pipeline using Deep Learning (CNN) for time-series pattern classification
@@ -15,7 +15,7 @@ By leveraging Convolutional Neural Networks, the model can learn visual features
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python 3
 - TensorFlow / Keras
@@ -26,7 +26,7 @@ By leveraging Convolutional Neural Networks, the model can learn visual features
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 | File/Folder                  | Description                                               |
 |-----------------------------|-----------------------------------------------------------|
@@ -38,7 +38,7 @@ By leveraging Convolutional Neural Networks, the model can learn visual features
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 The model will highlight chart pattern points as:
 
