@@ -1,5 +1,6 @@
 from scipy.signal import find_peaks
 import numpy as np
+import pandas as pd
 
 def detect_head_shoulders(df, distance=5, tolerance=0.03, debug=False):
     prices = df['close'].values
@@ -33,3 +34,5 @@ def detect_head_shoulders(df, distance=5, tolerance=0.03, debug=False):
             })
 
     return patterns
+
+
