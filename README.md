@@ -35,7 +35,7 @@ The main innovation is the use of **AI in FinTech** to automate financial analys
 
 | List | Currently available [cite: 75, 240] | New technology use  |
 | :--- | :--- | :--- |
-| **Pattern Recognition** | Manual analysis by traders | Automated AI-driven detection [cite: 75, 240] |
+| **Pattern Recognition** | Manual analysis by traders | Automated AI-driven detection |
 | **Accuracy** | Subject to human error  | High precision with deep learning  |
 | **Adaptability** | Static rule-based approach  | Dynamic learning from market trends  |
 
@@ -81,9 +81,9 @@ The business strategy is based on the Business Model Canvas.
 | :--- | :--- |
 | **Value Propositions** | Automated Pattern Detection, Backtesting for Strategies. |
 | **Customer Segments** | Retail Traders, Professional Traders. |
-| **Channels** | APIs for Brokers, Social Media & Ads, Web & Mobile Apps[cite: 153, 319]. |
+| **Channels** | APIs for Brokers, Social Media & Ads, Web & Mobile Apps. |
 | **Revenue Streams** | Subscription Plans. |
-| **Key Partners** | Settrade Api, Regulatory Bodies, Brokerage Firms[cite: 141, 307]. |
+| **Key Partners** | Settrade Api, Regulatory Bodies, Brokerage Firms. |
 | **Key Resources** | Financial Data, Technical Team, AI models. |
 | **Key Activities** | Model Development, Platform Development, Data Integration. |
 | **Cost Structure** | Technology Development, Data Acquisition Costs, Cloud Infrastructure. |
