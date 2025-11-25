@@ -1,8 +1,8 @@
-# AI-Driven Stock Market Pattern Recognition
+# Stock Market Pattern Recognition
 
 ## Research Projects: Stock Chart and Wyckoff Pattern Recognition Using Artificial Intelligence (AI/Deep Learning)
 
-[cite_start]This set of projects aims to revolutionize technical analysis in the stock market by leveraging **Machine Learning (ML)** and **Deep Learning** to transform subjective chart interpretation into a fast, unbiased, quantitative analysis system[cite: 58, 236].
+This set of projects aims to revolutionize technical analysis in the stock market by leveraging **Machine Learning (ML)** and **Deep Learning** to transform subjective chart interpretation into a fast, unbiased, quantitative analysis system[cite: 58, 236].
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Project | Topic |
 | :--- | :--- |
-| **Project 1** | [cite_start]Stock Market recognition Wyckoff using Machine Learning [cite: 168, 202] |
-| **Project 2** | [cite_start]Stock market chart pattern recognition using deep learning [cite: 1, 35] |
+| **Project 1** | Stock Market recognition Wyckoff using Machine Learning [cite: 168, 202] |
+| **Project 2** | Stock market chart pattern recognition using deep learning [cite: 1, 35] |
 
 
 ### 1.3 Objectives
