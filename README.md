@@ -1,121 +1,127 @@
-# 📈 AI-Driven Stock Market Pattern Recognition
+# AI-Driven Stock Market Pattern Recognition
 
-## 🌟 โครงการวิจัย: การจดจำรูปแบบแผนภูมิและ Wyckoff ในตลาดหุ้นด้วยปัญญาประดิษฐ์ (AI/Deep Learning)
+## Research Projects: Stock Chart and Wyckoff Pattern Recognition Using Artificial Intelligence (AI/Deep Learning)
 
-ชุดโครงการนี้มุ่งเน้นการปฏิวัติการวิเคราะห์ทางเทคนิคในตลาดหุ้น โดยการใช้ประโยชน์จาก Machine Learning (ML) และ Deep Learning เพื่อแปลงการตีความแผนภูมิแบบอัตนัย (Subjective) ให้เป็นระบบวิเคราะห์เชิงปริมาณ (Quantitative Analysis) ที่รวดเร็ว แม่นยำ และเป็นกลาง
-
----
-
-## 🎯 Phase 1: General Information & Objectives
-
-### 1.1 ข้อมูลโครงการหลัก
-
-| โครงการ | ชื่อภาษาไทย | ชื่อภาษาอังกฤษ |
-| :--- | :--- | :--- |
-| **โครงการที่ 1** | [cite_start]การตรวจจับเหตุการณ์ Wyckoff และแนวโน้มตลาดหุ้นด้วยแมชชีนเลิร์นนิง [cite: 36] | [cite_start]Stock Market recognition Wyckoff using Machine Learning [cite: 35] |
-| **โครงการที่ 2** | [cite_start]การจดจำรูปแบบแผนภูมิตลาดหุ้นโดยใช้การเรียนรู้เชิงลึก [cite: 202] | [cite_start]Stock market chart pattern recognition using deep learning [cite: 201] |
-
-### 1.2 ผู้จัดทำและที่ปรึกษา
-
-| บทบาท | ชื่อ-สกุล | สังกัด |
-| :--- | :--- | :--- |
-| **ผู้ตรวจสอบ** | [cite_start]Hilman Yusoh [cite: 60, 227] | [cite_start]Student ID: 651437006 [cite: 60, 227] |
-| **ที่ปรึกษา** | [cite_start]Kholed Langsari [cite: 62, 229] | [cite_start]Email: langsari@ftu.ac.th [cite: 62, 229] |
-
-### 1.3 วัตถุประสงค์ (Objectives)
-
-* [cite_start]**Wyckoff Project:** พัฒนาระบบอัตโนมัติที่สามารถตรวจจับเหตุการณ์ Wyckoff หลัก (เช่น Selling Climax, Spring, Upthrust After Distribution) ในข้อมูลราคาหุ้นได้อย่างแม่นยำ [cite: 64] [cite_start]และสร้างแพลตฟอร์มต้นแบบสำหรับใช้เครื่องมือวิเคราะห์ Wyckoff อัตโนมัติ [cite: 65]
-* [cite_start]**Chart Pattern Project:** พัฒนาระบบ ATS โดยใช้ Machine Learning ที่สามารถเรียนรู้จากข้อมูลในอดีต [cite: 220] [cite_start]และปรับให้เข้ากับสถานการณ์ตลาดแบบเรียลไทม์ [cite: 221]
+[cite_start]This set of projects aims to revolutionize technical analysis in the stock market by leveraging **Machine Learning (ML)** and **Deep Learning** to transform subjective chart interpretation into a fast, unbiased, quantitative analysis system[cite: 58, 236].
 
 ---
 
-## 🔬 Phase 2: Science Technology and Innovation
+## Phase 1: General Information & Objectives
 
-### 2.1 สารัตถะนวัตกรรม
+### 1.1 Project Details
 
-[cite_start]นวัตกรรมหลักคือการใช้ **Machine Learning/Deep Learning** ใน **FinTech** เพื่อเปลี่ยนการตีความแผนภูมิที่เป็นอัตนัย ให้กลายเป็นระบบวิเคราะห์เชิงปริมาณที่รวดเร็วและไม่มีอคติ [cite: 57, 69, 224]
+| Project | Topic |
+| :--- | :--- |
+| **Project 1** | [cite_start]Stock Market recognition Wyckoff using Machine Learning [cite: 168, 202] |
+| **Project 2** | [cite_start]Stock market chart pattern recognition using deep learning [cite: 1, 35] |
 
-| รายการ | สิ่งที่มีอยู่ในปัจจุบัน (Currently available) | สิ่งที่ใช้ใหม่ในโครงการ (New technology use) |
-| :--- | :--- | :--- |
-| **การจดจำรูปแบบ** | [cite_start]การวิเคราะห์ด้วยมือโดยเทรดเดอร์ [cite: 73, 241] | [cite_start]การตรวจจับอัตโนมัติด้วย AI [cite: 73, 241] |
-| **ความแม่นยำ** | [cite_start]ขึ้นอยู่กับความผิดพลาดของมนุษย์ [cite: 73, 241] | [cite_start]ความแม่นยำสูงด้วย Deep Learning [cite: 73, 241] |
-| **การปรับตัว** | [cite_start]วิธีการแบบคงที่ (Static rule-based approach) [cite: 73, 241] | [cite_start]การเรียนรู้แบบไดนามิกจากแนวโน้มตลาด (Dynamic learning from market trends) [cite: 73, 241] |
 
-### 2.2 เทคโนโลยีหลักที่ใช้ (New Ideas or Technology)
+### 1.3 Objectives
 
-| เทคโนโลยี | โครงการที่ใช้ | รายละเอียด |
-| :--- | :--- | :--- |
-| **Algorithmic Detection** | Wyckoff | [cite_start]พัฒนาชุดกฎและอัลกอริทึมเพื่อระบุเหตุการณ์ Wyckoff Key Events (SC, AR, Spring) โดยวิเคราะห์ **Structure-Volume-Price** [cite: 70, 77] |
-| **Deep Learning (LSTM)** | [cite_start]ทั้งสองโครงการ [cite: 71, 78, 237, 244] | [cite_start]ใช้ Long Short-Term Memory (LSTM) ซึ่งเป็นโครงข่ายประสาทเทียมสำหรับประมวลผลข้อมูลอนุกรมเวลา (Time Series Data) เพื่อคาดการณ์ทิศทางราคาในอนาคต [cite: 71, 78] |
-| **Deep Learning (CNN)** | [cite_start]Chart Pattern [cite: 237, 244] | [cite_start]ใช้ Convolutional Neural Networks (CNNs) ในการวิเคราะห์ภาพแผนภูมิ (OHLC-recognition) [cite: 237, 244] |
-| **Database** | Wyckoff | [cite_start]ใช้ **Apache Cassandra** ซึ่งเป็น NoSQL database แบบกระจายสำหรับจัดเก็บข้อมูลแท่งเทียน (candlestick data) ที่มีปริมาณมาก [cite: 76] |
+* **Wyckoff Project:**
+    * [cite_start]To develop an automated system that can accurately detect and flag key Wyckoff events (e.g., Selling Climax, Automatic Rally, Spring, and Upthrust After Distribution) in stock price data[cite: 231].
+    * [cite_start]To create a prototype platform for traders to use automated Wyckoff analysis tools[cite: 232].
+* **Chart Pattern Project:**
+    * [cite_start]To develop an Automated Trading System (ATS) using Machine Learning that can learn from historical data[cite: 54].
+    * [cite_start]To adapt to market situations in real time[cite: 55].
 
 ---
 
-## 📝 Phase 3: Methodology (CRISP-DM)
+## Phase 2: Science Technology and Innovation
 
-โครงการใช้ระเบียบวิธี **CRISP-DM (Cross-Industry Standard Process for Data Mining)** ซึ่งมี 6 ขั้นตอนหลัก:
+### 2.1 Innovation Highlights
+
+[cite_start]The main innovation is the use of **AI in FinTech** to automate financial analysis[cite: 58, 224].
+
+| List | [cite_start]Currently available [cite: 75, 240] | [cite_start]New technology use [cite: 75, 240] |
+| :--- | :--- | :--- |
+| **Pattern Recognition** | [cite_start]Manual analysis by traders [cite: 75, 240] | [cite_start]Automated AI-driven detection [cite: 75, 240] |
+| **Accuracy** | [cite_start]Subject to human error [cite: 75, 240] | [cite_start]High precision with deep learning [cite: 75, 240] |
+| **Adaptability** | [cite_start]Static rule-based approach [cite: 75, 240] | [cite_start]Dynamic learning from market trends [cite: 75, 240] |
+
+### 2.2 Core Technology Used (Related Work & Tools)
+
+| Technology | Project | Description/Tool |
+| :--- | :--- | :--- |
+| **Deep Learning Models** | Chart Pattern | [cite_start]**CNNs** for OHLC-recognition and **LSTMs** for time-series analysis[cite: 71, 78]. |
+| **Algorithmic Detection** | Wyckoff | [cite_start]Develops a set of rules and algorithms to identify Wyckoff Key Events (SC, AR, Spring, UTAD)[cite: 237, 244]. |
+| **Forecasting Model** | Both | [cite_start]Uses **LSTM** (Long Short-Term Memory) to predict price movement direction[cite: 238, 245]. |
+| **Data Source** | Both | [cite_start]**SETTREAD API** – Provides historical stock prices, OHLC data, and technical indicators[cite: 89, 255]. |
+| **Frameworks** | Both | [cite_start]**Python** as the language[cite: 82, 248]; [cite_start]**TensorFlow / PyTorch** for Deep Learning[cite: 84, 250]; [cite_start]**Pandas & NumPy** for data processing[cite: 86, 252]. |
+| **Deployment** | Both | **Google Cloud / AWS** for model hosting; [cite_start]**Flask/FastAPI** for API-based services[cite: 91, 92, 257, 258]. |
+
+---
+
+## Phase 3: Methodology (CRISP-DM)
+
+[cite_start]Both projects utilize the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** methodology[cite: 97, 263].
 
 ### 3.1 Conceptual Framework
 
-[cite_start]`Data Collection → Data Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment` [cite: 93, 260]
+[cite_start]`Data Collection → Data Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment` [cite: 94, 260]
 
 ### 3.2 CRISP-DM Phases
 
-| Phase | กิจกรรมหลัก |
+| Phase | [cite_start]Key Activities [cite: 99-134, 265-300] |
 | :--- | :--- |
-| **1. Business Understanding** | [cite_start]พัฒนา Deep Learning Model เพื่อจำแนกประเภทรูปแบบแผนภูมิและลดข้อผิดพลาดในการคาดการณ์แนวโน้มตลาด [cite: 99, 100, 101, 267, 268] |
-| **2. Data Understanding** | [cite_start]รวบรวมข้อมูลราคาหุ้น/คริปโต และข้อมูลส่วนบุคคล (พฤติกรรมการลงทุนของผู้ใช้) [cite: 104, 105, 106, 271, 272, 273] |
-| **3. Data Preparation** | [cite_start]**Feature Engineering:** สร้างคุณลักษณะใหม่ เช่น RSI, MACD, Moving Average [cite: 112, 113, 279, 280] [cite_start]**Normalization:** ปรับมาตราส่วนข้อมูลให้อยู่ในช่วงที่เหมาะสม (0-1 หรือ -1 ถึง 1) [cite: 115, 116, 282, 283] |
-| **4. Modeling** | [cite_start]ใช้โมเดล Deep Learning (CNN, LSTM, Transformer) เพื่อจำแนกรูปแบบแผนภูมิ (Chart Pattern Classification) [cite: 119, 120, 121, 286, 287, 288] |
-| **5. Evaluation** | [cite_start]ใช้ **MAPE (Mean Absolute Percentage Error)** ในการวัดข้อผิดพลาดของโมเดล [cite: 123, 124, 290, 291] [cite_start]และตัดสินใจปรับปรุงโมเดลหากข้อผิดพลาดสูง [cite: 125, 126, 292, 293] |
-| **6. Deployment** | [cite_start]แสดงผลลัพธ์ของโมเดลผ่านการแสดงผลรูปแบบแผนภูมิ (Chart Patterns Visualization) และจุดกลับตัวของแนวโน้ม [cite: 129, 133, 296, 300] |
+| **1. Business Understanding** | [cite_start]Develop a Deep Learning model to classify price chart patterns and reduce errors in predicting market trends[cite: 101, 102, 267, 268]. |
+| **2. Data Understanding** | [cite_start]Data comes from a database, which may be stock or crypto data[cite: 105, 271]. [cite_start]Includes Personalized Data (user investment behavior)[cite: 107, 273]. |
+| **3. Data Preparation** | [cite_start]**Exploratory Data Analysis (EDA)**[cite: 109, 275]; [cite_start]**Data Manipulation** (cleaning data)[cite: 111, 277]; [cite_start]**Feature Engineering** (creating new features like RSI, MACD)[cite: 113, 279]; [cite_start]**Normalization** (scaling data to an appropriate range)[cite: 116, 282]. |
+| **4. Modeling** | [cite_start]Use a Machine Learning or Deep Learning model (CNN, LSTM or Transformer) to classify chart types[cite: 119, 122, 285, 288]. |
+| **5. Evaluation** | [cite_start]Use **MAPE (Mean Absolute Percentage Error)** to measure the model's error[cite: 124, 125, 290, 291]. [cite_start]Decide whether to improve the model[cite: 126, 292]. |
+| **6. Deployment** | [cite_start]Show the model's results using a chart (Chart Patterns Visualization)[cite: 130, 297]. [cite_start]Examples include the "Head and Shoulders" pattern[cite: 132, 298]. |
 
 ---
 
-## 💼 Phase 4: Business Information (Business Model Canvas)
+## Phase 4: Business Information (Business Model Canvas)
 
-| องค์ประกอบ | [cite_start]Wyckoff Project [cite: 137-158] | [cite_start]Chart Pattern Project [cite: 304-325] |
-| :--- | :--- | :--- |
-| **1) Value Propositions** | [cite_start]Automated Pattern Detection, Backtesting for Strategies [cite: 137, 304] | [cite_start]Automated Pattern Detection, Backtesting for Strategies [cite: 137, 304] |
-| **3) Key Partners** | [cite_start]Settrade Api, Regulatory Bodies, Brokerage Firms [cite: 140, 307] | [cite_start]Settrade Api, Regulatory Bodies, Brokerage Firms [cite: 140, 307] |
-| **4) Key Resources** | [cite_start]Financial Data, Technical Team, Ai models [cite: 143, 310] | [cite_start]Financial Data, Technical Team, Ai models [cite: 143, 310] |
-| **5) Customer Segments** | [cite_start]Retail Traders, Professional Traders [cite: 144, 311] | [cite_start]Retail Traders, Professional Traders [cite: 144, 311] |
-| **9) Revenue Streams** | [cite_start]Subscription Plans [cite: 158, 325] | [cite_start]Subscription Plans [cite: 158, 325] |
+[cite_start]The business strategy is based on the Business Model Canvas[cite: 137, 303].
+
+| Component | [cite_start]Shared Strategy [cite: 138-159, 304-325] |
+| :--- | :--- |
+| **Value Propositions** | [cite_start]Automated Pattern Detection, Backtesting for Strategies[cite: 138, 304]. |
+| **Customer Segments** | [cite_start]Retail Traders, Professional Traders[cite: 145, 311]. |
+| **Channels** | [cite_start]APIs for Brokers, Social Media & Ads, Web & Mobile Apps[cite: 153, 319]. |
+| **Revenue Streams** | [cite_start]Subscription Plans[cite: 159, 325]. |
+| **Key Partners** | [cite_start]Settrade Api, Regulatory Bodies, Brokerage Firms[cite: 141, 307]. |
+| **Key Resources** | [cite_start]Financial Data, Technical Team, AI models[cite: 144, 310]. |
+| **Key Activities** | [cite_start]Model Development, Platform Development, Data Integration[cite: 139, 305]. |
+| **Cost Structure** | [cite_start]Technology Development, Data Acquisition Costs, Cloud Infrastructure[cite: 157, 323]. |
 
 ---
 
-## 📅 Phase 5: Proposal Schedule and Indicators
+## Phase 5: Proposal Schedule and Indicators
 
-### 5.1 Gantt Chart (แผน 12 เดือน)
+### 5.1 Gantt Chart (12-Month Plan)
 
 | Detail | Month 1-3 | Month 4-6 | Month 7-9 | Month 10-12 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Planning & Research** | [cite_start]Phase 1 & 2 [cite: 163, 330] | | | |
-| **Data & Modeling** | [cite_start]Data Collection & Preprocessing [cite: 163, 330] | [cite_start]Model Development & Training [cite: 163, 330] | [cite_start]Model Testing & Evaluation [cite: 163, 330] | |
-| **Business & Deployment** | [cite_start]Business Model & Strategy Planning [cite: 163, 330] | | | [cite_start]Deployment & Implementation [cite: 163, 330] |
-| **Completion** | | | | [cite_start]Final Proposal Completion & Presentation [cite: 163, 330] |
+| **Planning & Research** | [cite_start]Phase 1: General Information & Planning, Phase 2: Technology Research & Model Selection [cite: 164, 330] | | | |
+| **Data & Modeling** | [cite_start]Phase 3: Data Collection & Preprocessing [cite: 164, 330] | [cite_start]Phase 3: Model Development & Training [cite: 164, 330] | [cite_start]Phase 3: Model Testing & Evaluation [cite: 164, 330] | |
+| **Business & Deployment** | [cite_start]Phase 4: Business Model & Strategy Planning [cite: 164, 330] | | | [cite_start]Phase 3 & 4: Deployment & Implementation [cite: 164, 330] |
+| **Completion** | | | | [cite_start]Final Proposal Completion & Presentation [cite: 164, 330] |
 
 ### 5.2 Key Performance Indicators (KPIs)
 
 | Key Result | KPI (Metric for Measurement) | Target | Timeline |
 | :--- | :--- | :--- | :--- |
-| **Model Training & Initial Evaluation** | [cite_start]Model accuracy on training data [cite: 165, 332] | [cite_start]≥ 70% accuracy [cite: 165, 332] | [cite_start]Month 6 [cite: 165, 332] |
-| **Model Optimization & Improvement** | [cite_start]Model accuracy on test data [cite: 165, 332] | [cite_start]≥ 85% accuracy [cite: 165, 332] | [cite_start]Month 8 [cite: 165, 332] |
-| **Prototype Deployment & Testing** | [cite_start]Functional AI model deployed for stock pattern recognition [cite: 165, 332] | [cite_start]Deployed & functional [cite: 165, 332] | [cite_start]Month 10 [cite: 165, 332] |
-| **System Efficiency** | [cite_start]Model inference time per prediction [cite: 165, 332] | [cite_start]< 1 second per prediction [cite: 165, 332] | [cite_start]Month 11 [cite: 165, 332] |
+| **Data Collection & Preprocessing** | Percentage of required stock market data collected and cleaned | 100% complete | [cite_start]Month 3 [cite: 166, 332] |
+| **Model Training & Initial Evaluation** | Model accuracy on training data | ≥ 70% accuracy | [cite_start]Month 6 [cite: 166, 332] |
+| **Model Optimization & Improvement** | Model accuracy on test data | ≥ 85% accuracy | [cite_start]Month 8 [cite: 166, 332] |
+| **Prototype Deployment & Testing** | Functional AI model deployed for stock pattern recognition | Deployed & functional | [cite_start]Month 10 [cite: 166, 332] |
+| **System Efficiency** | Model inference time per prediction | < 1 second per prediction | [cite_start]Month 11 [cite: 166, 332] |
 
 ---
 
-## 🖼️ Project Visualization (ตัวอย่างผลลัพธ์)
+## Project Visualization (Result Examples)
 
 ### Wyckoff Zones Prediction
 
-*ตัวอย่างการตรวจจับโซน Wyckoff (Accumulation/Distribution) และเหตุการณ์หลัก (SC, AR, Spring) ในหุ้น PTT และ BTC:*
+*Example of Wyckoff zone detection (Accumulation/Distribution) and key events (SC, AR, Spring) in PTT and BTC:*
 
 
 
 
 ### Chart Pattern Recognition
 
-*ตัวอย่างการตรวจจับรูปแบบแผนภูมิ Head and Shoulders (IH&S) ใน BTC:*
+*Example of Head and Shoulders (IH&S) pattern detection in BTC:*
