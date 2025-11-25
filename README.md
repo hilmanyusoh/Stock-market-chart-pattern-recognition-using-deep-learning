@@ -1,8 +1,8 @@
 # Stock Market Pattern Recognition
 
-## Research Projects: Stock Chart and Wyckoff Pattern Recognition Using Artificial Intelligence (AI/Deep Learning)
+## Research Projects: Stock Chart and Wyckoff Pattern Recognition Using Artificial Intelligence (AI/Deep Learning) 
 
-This set of projects aims to revolutionize technical analysis in the stock market by leveraging **Machine Learning (ML)** and **Deep Learning** to transform subjective chart interpretation into a fast, unbiased, quantitative analysis system[cite: 58, 236].
+This set of projects aims to revolutionize technical analysis in the stock market by leveraging **Machine Learning (ML)** and **Deep Learning** to transform subjective chart interpretation into a fast, unbiased, quantitative analysis system.
 
 ---
 
@@ -67,7 +67,7 @@ Both projects utilize the **CRISP-DM (Cross-Industry Standard Process for Data M
 | **1. Business Understanding** | Develop a Deep Learning model to classify price chart patterns and reduce errors in predicting market trends. |
 | **2. Data Understanding** | Data comes from a database, which may be stock or crypto data. Includes Personalized Data (user investment behavior). |
 | **3. Data Preparation** | **Exploratory Data Analysis (EDA)**[cite: 109, 275]; **Data Manipulation** (cleaning data); **Feature Engineering** (creating new features like RSI, MACD)[cite: 113, 279]; **Normalization** (scaling data to an appropriate range)[cite: 116, 282]. |
-| **4. Modeling** | ]Use a Machine Learning or Deep Learning model (CNN, LSTM or Transformer) to classify chart types. |
+| **4. Modeling** | Use a Machine Learning or Deep Learning model (CNN, LSTM or Transformer) to classify chart types. |
 | **5. Evaluation** | Use **MAPE (Mean Absolute Percentage Error)** to measure the model's error. Decide whether to improve the model. |
 | **6. Deployment** | Show the model's results using a chart (Chart Patterns Visualization). Examples include the "Head and Shoulders" pattern. |
 
@@ -77,7 +77,7 @@ Both projects utilize the **CRISP-DM (Cross-Industry Standard Process for Data M
 
 The business strategy is based on the Business Model Canvas.
 
-| Component | [cite_start]Shared Strategy [cite: 138-159, 304-325] |
+| Component | Shared Strategy  |
 | :--- | :--- |
 | **Value Propositions** | Automated Pattern Detection, Backtesting for Strategies. |
 | **Customer Segments** | Retail Traders, Professional Traders. |
