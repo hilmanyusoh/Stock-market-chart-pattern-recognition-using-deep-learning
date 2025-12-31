@@ -1,0 +1,26 @@
+# Database Connection
+cassandra-driver==3.29.1
+
+# Data Manipulation & Excel
+pandas==2.2.0
+numpy==1.26.4
+openpyxl==3.1.2
+
+# Technical Analysis & Signal Processing
+scipy==1.12.0
+# หมายเหตุ: TA-Lib มักจะติดตั้งผ่าน pip ตรงๆ บน Windows ยาก 
+# หากติดตั้งไม่ได้ให้ดูวิธีด้านล่าง
+TA-Lib==0.4.28
+
+# Settrade API (เวอร์ชันล่าสุดจาก Settrade)
+settrade-py==2.2.0
+
+# Deep Learning (TensorFlow/Keras)
+tensorflow==2.15.0
+
+# Visualization (กรณีต้องการวาดกราฟเช็ค Pattern)
+mplfinance==0.12.10b0
+matplotlib==3.8.2
+
+# Machine Learning Utilities
+scikit-learn==1.4.0

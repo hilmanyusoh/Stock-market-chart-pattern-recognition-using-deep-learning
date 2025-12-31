@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  cassandra:
+    image: cassandra:latest # Uses the latest official Cassandra image
+    container_name: cassandra_db
+    ports:
+      - "9042:9042" # Maps the CQL port
+    volumes:
+      # Persists data to a named volume on the host, important for preserving data
+      - cassandra-data:/var/lib/cassandra 
+    environment:
+      # Optional: Sets the cluster name
+      - CASSANDRA_CLUSTER_NAME=TestCluster 
+
+# Defines the named volume
+volumes:
+  cassandra-data:
