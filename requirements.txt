@@ -1,33 +1,33 @@
 # =========================
 # Core Data & Visualization
 # =========================
-pandas>=1.5.0
-numpy>=1.23.0
-matplotlib>=3.6.0
+pandas
+numpy
+matplotlib
 
 # =========================
 # Database (Cassandra)
 # =========================
-cassandra-driver>=3.28.0
+cassandra-driver
 
 # =========================
 # Machine Learning
 # =========================
-scikit-learn>=1.2.0
+scikit-learn
 
 # =========================
 # Deep Learning
 # =========================
-tensorflow>=2.11.0
+tensorflow
 
 # =========================
 # NLP / Sentiment Analysis
 # =========================
-transformers>=4.36.0
-torch>=2.0.0
+transformers
+torch
 
 # =========================
 # Utilities (optional but recommended)
 # =========================
-tqdm>=4.65.0
+tqdm
 
